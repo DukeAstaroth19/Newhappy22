@@ -132,7 +132,7 @@ ul,li{
     position: relative;
     background-color: #d42726;
     padding: 15px;
-    color: gainsboro;
+    color: black;
     text-transform: uppercase;
     border-radius: 10px;
     transition: all 1s cubic-bezier(.71,.56,0,.77) 0s;
